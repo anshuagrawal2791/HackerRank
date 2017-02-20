@@ -19,9 +19,10 @@ public class UniversityCodeSprint2_2 {
 //                    System.out.println(a + " " + b);
 //                    System.out.println(check(s.substring(0, i), s.substring(i, s.length())));
                     if(check(a,b)){
+                        if(!a.matches("0")){
                         System.out.println("YES " + a);
                         flag=false;
-                        break;
+                        break;}
                     }
 
                 }
