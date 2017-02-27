@@ -5,6 +5,8 @@ import java.util.Scanner;
 /**
  * Created by anshu on 13/02/17.
  */
+
+// https://www.hackerrank.com/challenges/pairs
 public class Pairs {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
