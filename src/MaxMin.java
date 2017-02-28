@@ -26,10 +26,6 @@ public class MaxMin {
                 unfairness=diff;
         }
 
-      /*
-       * Write your code here, to process numPackets N, numKids K, and the packets of candies
-       * Compute the ideal value for unfairness over here
-      */
 
         System.out.println(unfairness);
     }
