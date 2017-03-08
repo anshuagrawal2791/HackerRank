@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by anshu on 07/03/17.
  */
-public class Rait_a_thon {
+public class Rait_a_thon_4 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
